@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1", 
-    "start": "webpack-cli serve --mode development --content-base docs/ --open Chrome"
+    "start": "webpack-cli serve --mode development --content-base src/ --open Chrome"
   },
   "repository": {
     "type": "git",
